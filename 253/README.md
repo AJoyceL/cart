@@ -1,7 +1,7 @@
 ## Welcome to my CART 253 repository
 
 
-## here are the links to my projects
+## Projects links
 - Art Jam: [Self-Portrait](https://ajoycel.github.io/cart253-2025/art-jam/)
 - Mod Jam: [Mod Jam](https://ajoycel.github.io/cart253-2025/mod_jam/)
 - Variation Jam: [Talk To Me](https://ajoycel.github.io/cart253-2025/variations_jam)
